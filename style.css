@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Reggae+One&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    color:#111;
+}
+img{
+    height: 35vh;
+    width: 28vw;
+    padding: 1vw 0;
+    margin-left: 3.5vw;
+}
+nav {
+    width: 30%;
+    font-family: 'Reggae One', cursive;
+    font-size: 1.5rem;
+    margin:3vh 0 0 3vw;
+    border-bottom: 2px #e0e0eb solid;
+    padding-bottom: 2vh;
+}
